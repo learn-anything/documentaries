@@ -1,4 +1,4 @@
-# Free and non free documentaries all can learn from 📚
+# Free and non free documentaries all can learn from 🎥
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting documentaries one can watch to learn new things and discover new insights. 🔭
 
