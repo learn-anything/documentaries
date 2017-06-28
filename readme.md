@@ -53,6 +53,8 @@ Pull requests are welcome. Thank you. 💙
 
 - [Shenzhen: the silicon valley of Hardware  👀](https://www.youtube.com/watch?v=SGJ5cZnoodY)
 
+- [revolution OS](https://letterboxd.com/film/revolution-os/genres/)
+
 
 # math
 
@@ -60,6 +62,12 @@ Pull requests are welcome. Thank you. 💙
 - [fractals - the colours of infinity 👀](http://topdocumentaryfilms.com/fractals-colors-infinity/)
 
 - [Euler's Identity 👀](https://www.youtube.com/watch?v=sKtloBAuP74)
+
+
+# privacy
+
+
+- [Citizenfour](https://letterboxd.com/film/citizenfour/)
 
 
 # other
