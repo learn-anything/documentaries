@@ -39,10 +39,10 @@ Pull requests are welcome. Thank you. 💙
 - [fractals - the colours of infinity 👀](http://topdocumentaryfilms.com/fractals-colors-infinity/)
 - [Euler's Identity 👀](https://www.youtube.com/watch?v=sKtloBAuP74)
 
-# Privacy
+### Privacy
 - [Citizenfour](https://letterboxd.com/film/citizenfour/)
 
-# Other
+### Other
 - [the queen of Versailles](https://letterboxd.com/film/the-queen-of-versailles/)
 - [searching for sugar man](https://letterboxd.com/film/searching-for-sugar-man/)
 - [searching for sugar man](https://letterboxd.com/film/searching-for-sugar-man/)
