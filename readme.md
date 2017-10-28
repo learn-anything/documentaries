@@ -1,11 +1,10 @@
 # Free and non free documentaries all can learn from 🎥 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
-Here is a curated list of all the interesting documentaries one can watch to learn new things and discover new insights. 🔭
+Here is a curated list of all the interesting documentaries one can watch to learn new things and discover new insights. 
 
 If there is 👀 emoji after the name, it means you can watch it for free online. 
 
-If there is a freely watchable version of the documentary, please swap the link.
+If there is a freely watchable version of the documentary, please swap the link and add 👀.
 
 Pull requests are welcome. Thank you. 💙
 
