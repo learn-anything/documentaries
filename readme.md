@@ -1,14 +1,14 @@
-# Free and non free documentaries all can learn from 🎥 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting documentaries one can watch to learn new things and discover new insights. 
+# Interesting Documentaries [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
+
+This is a curated list of all the interesting documentaries.
 
 If there is 👀 emoji after the name, it means you can watch it for free online. 
 
 If there is a freely watchable version of the documentary, please swap the link and add 👀.
 
-Pull requests are welcome. Thank you. 💙
+Pull requests are welcome. Thank you. 💜
 
-### Related websites / repositories 
+## Related websites / repositories 
 - [documentary heaven](http://documentaryheaven.com/)
 - [documentary storm](https://documentarystorm.com/)
 - [top documentary films](http://topdocumentaryfilms.com/)
@@ -53,3 +53,5 @@ Pull requests are welcome. Thank you. 💙
 - [dear Zachary](https://letterboxd.com/film/dear-zachary-a-letter-to-a-son-about-his-father/)
 - [the life and work of chemist Alexander "Sasha" Shulgin 👀](https://www.youtube.com/watch?v=nP7mRrsNFWI)
 
+## Contribute 
+If you found aninteresting documentary that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
