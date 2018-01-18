@@ -5,8 +5,8 @@ If there is 👀 emoji before the name, it means you can watch the documentary f
 
 ## Awareness
 - [The century of the self 👀](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
-- [👀 The trap](https://www.youtube.com/watch?v=y97Ywl7RtUw)
-- [👀 HyperNormalisation](https://www.youtube.com/watch?v=-fny99f8amM)
+- [The trap 👀](https://www.youtube.com/watch?v=y97Ywl7RtUw)
+- [HyperNormalisation 👀](https://www.youtube.com/watch?v=-fny99f8amM)
 - [Earthlings](https://letterboxd.com/film/earthlings/)
 - [Cowspiracy](https://letterboxd.com/film/cowspiracy-the-sustainability-secret/)
 
@@ -20,12 +20,12 @@ If there is 👀 emoji before the name, it means you can watch the documentary f
 - [Cosmos: a spacetime odyssey](https://letterboxd.com/film/cosmos-a-spacetime-odyssey/)
 
 ## Technology
-- [👀 Shenzhen: the silicon valley of Hardware](https://www.youtube.com/watch?v=SGJ5cZnoodY)
+- [Shenzhen: the silicon valley of Hardware 👀](https://www.youtube.com/watch?v=SGJ5cZnoodY)
 - [Revolution OS](https://letterboxd.com/film/revolution-os/genres/)
 
 ## Math
-- [👀 Fractals - the colours of infinity](http://topdocumentaryfilms.com/fractals-colors-infinity/)
-- [👀 Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
+- [Fractals - the colours of infinity 👀](http://topdocumentaryfilms.com/fractals-colors-infinity/)
+- [Euler's Identity 👀](https://www.youtube.com/watch?v=sKtloBAuP74)
 
 ## Privacy
 - [Citizenfour](https://letterboxd.com/film/citizenfour/)
