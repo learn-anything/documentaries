@@ -4,7 +4,7 @@
 If there is 👀 emoji before the name, it means you can watch the documentary for free online.
 
 ## Awareness
-- [👀 The century of the self](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
+- [The century of the self 👀](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
 - [👀 The trap](https://www.youtube.com/watch?v=y97Ywl7RtUw)
 - [👀 HyperNormalisation](https://www.youtube.com/watch?v=-fny99f8amM)
 - [Earthlings](https://letterboxd.com/film/earthlings/)
