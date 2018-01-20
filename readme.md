@@ -40,7 +40,7 @@ If there is 👀 emoji after the name, it means you can watch the documentary fo
 - [Jiro dreams of sushi](https://letterboxd.com/film/jiro-dreams-of-sushi/)
 - [Going clear](https://letterboxd.com/film/going-clear-scientology-and-the-prison-of-belief/)
 - [Dear Zachary](https://letterboxd.com/film/dear-zachary-a-letter-to-a-son-about-his-father/)
-- [👀 The life and work of chemist Alexander "Sasha" Shulgin](https://www.youtube.com/watch?v=nP7mRrsNFWI)
+- [The life and work of chemist Alexander "Sasha" Shulgin 👀](https://www.youtube.com/watch?v=nP7mRrsNFWI)
 
 ## Related
 - [Documentary heaven](http://documentaryheaven.com/)
