@@ -1,11 +1,11 @@
 # Interesting Documentaries [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-If there is 👀 emoji after the name, it means you can watch the documentary for free online.
+If there is 👀 emoji before the name, it means you can watch the documentary for free online.
 
 ## Awareness
-- [The century of the self 👀](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
-- [The trap 👀](https://www.youtube.com/watch?v=y97Ywl7RtUw)
+- [👀 The century of the self](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
+- [👀 The trap](https://www.youtube.com/watch?v=y97Ywl7RtUw)
 - [HyperNormalisation 👀](https://www.youtube.com/watch?v=-fny99f8amM)
 - [Earthlings](https://letterboxd.com/film/earthlings/)
 - [Cowspiracy](https://letterboxd.com/film/cowspiracy-the-sustainability-secret/)
