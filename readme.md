@@ -33,7 +33,6 @@ If there is 👀 emoji after the name, it means you can watch the documentary fo
 ## Other
 - [The queen of Versailles](https://letterboxd.com/film/the-queen-of-versailles/)
 - [Searching for sugar man](https://letterboxd.com/film/searching-for-sugar-man/)
-- [Searching for sugar man](https://letterboxd.com/film/searching-for-sugar-man/)
 - [The King of Kong](https://letterboxd.com/film/the-king-of-kong/)
 - [Alone in the wilderness](https://letterboxd.com/film/alone-in-the-wilderness/)
 - [Koyaanisqatsi](https://letterboxd.com/film/koyaanisqatsi/)
