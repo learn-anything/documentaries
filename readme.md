@@ -1,7 +1,7 @@
 # Interesting Documentaries [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
-If there is 👀 emoji after the name, it means you can watch the documentary for free online.
+👀 emoji after the name, means you can watch the documentary for free online.
 
 ## Awareness
 - [The century of the self 👀](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
