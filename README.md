@@ -3,8 +3,6 @@
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
 [![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](CONTRIBUTING.md#readme)
 
-👀 emoji after the name, means you can watch the documentary for free online.
-
 ---
 
 #### Contents
@@ -13,10 +11,10 @@
 - [Earth](#earth)
 - [Math](#math)
 - [Privacy](#privacy)
-- [Related](#related)
 - [Technology](#technology)
 - [Universe](#universe)
 - [Other](#other)
+- [Related](#related)
 
 ---
 
@@ -24,9 +22,9 @@
 
 - [Cowspiracy](https://letterboxd.com/film/cowspiracy-the-sustainability-secret/)
 - [Earthlings](https://letterboxd.com/film/earthlings/)
-- [HyperNormalisation 👀](https://www.youtube.com/watch?v=-fny99f8amM)
-- [The century of the self 👀](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
-- [The trap 👀](https://www.youtube.com/watch?v=y97Ywl7RtUw)
+- [HyperNormalisation](https://www.youtube.com/watch?v=-fny99f8amM)
+- [The century of the self](https://www.youtube.com/watch?v=eJ3RzGoQC4s)
+- [The trap](https://www.youtube.com/watch?v=y97Ywl7RtUw)
 
 ## Earth
 
@@ -37,23 +35,17 @@
 
 ## Math
 
-- [Euler's Identity 👀](https://www.youtube.com/watch?v=sKtloBAuP74)
-- [Fractals - the colours of infinity 👀](http://topdocumentaryfilms.com/fractals-colors-infinity/)
+- [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
+- [Fractals - the colours of infinity](http://topdocumentaryfilms.com/fractals-colors-infinity/)
 
 ## Privacy
 
 - [Citizenfour](https://letterboxd.com/film/citizenfour/)
 
-## Related
-
-- [Documentary heaven](http://documentaryheaven.com/)
-- [Documentary storm](https://documentarystorm.com/)
-- [Top documentary films](http://topdocumentaryfilms.com/)
-
 ## Technology
 
 - [Revolution OS](https://letterboxd.com/film/revolution-os/genres/)
-- [Shenzhen: the silicon valley of Hardware 👀](https://www.youtube.com/watch?v=SGJ5cZnoodY)
+- [Shenzhen: the silicon valley of Hardware](https://www.youtube.com/watch?v=SGJ5cZnoodY)
 
 ## Universe
 
@@ -68,8 +60,14 @@
 - [Koyaanisqatsi](https://letterboxd.com/film/koyaanisqatsi/)
 - [Searching for sugar man](https://letterboxd.com/film/searching-for-sugar-man/)
 - [The King of Kong](https://letterboxd.com/film/the-king-of-kong/)
-- [The life and work of chemist Alexander "Sasha" Shulgin 👀](https://www.youtube.com/watch?v=nP7mRrsNFWI)
+- [The life and work of chemist Alexander "Sasha" Shulgin](https://www.youtube.com/watch?v=nP7mRrsNFWI)
 - [The queen of Versailles](https://letterboxd.com/film/the-queen-of-versailles/)
+
+## Related
+
+- [Documentary heaven](http://documentaryheaven.com/)
+- [Documentary storm](https://documentarystorm.com/)
+- [Top documentary films](http://topdocumentaryfilms.com/)
 
 ---
 
