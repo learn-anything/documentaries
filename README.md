@@ -32,11 +32,26 @@
 - [Planet earth II](https://letterboxd.com/film/planet-earth-ii/)
 - [Planet earth](https://letterboxd.com/film/planet-earth-2006/)
 - [The blue planet](https://letterboxd.com/film/the-blue-planet/)
+- [Dynasties](https://letterboxd.com/film/dynasties/)
+- [The Hunt](https://letterboxd.com/film/the-hunt-2015/)
+- [Frozen Planet](https://letterboxd.com/film/frozen-planet/)
+- [Africa](https://letterboxd.com/film/africa-2013/)
+- [Home](https://letterboxd.com/film/home-2009/)
+- [The Cove](https://letterboxd.com/film/the-cove/)
+- [The Salt of the Earth](https://letterboxd.com/film/the-salt-of-the-earth/)
+- [Racing Extinction](https://letterboxd.com/film/racing-extinction/)
+- [Baraka](https://letterboxd.com/film/baraka/)
+- [Samsara](https://letterboxd.com/film/samsara-2011/)
+- [Winged Migration](https://letterboxd.com/film/winged-migration/)
+- [Earth: The Power of the Planet](https://letterboxd.com/film/earth-the-power-of-the-planet/)
 
 ## Math
 
 - [Euler's Identity](https://www.youtube.com/watch?v=sKtloBAuP74)
 - [Fractals - the colours of infinity](http://topdocumentaryfilms.com/fractals-colors-infinity/)
+- [But what is the Fourier Transform? A visual introduction.](https://www.youtube.com/watch?v=spUNpyF58BY)
+- [Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 ## Privacy
 
@@ -50,6 +65,8 @@
 ## Universe
 
 - [Cosmos: a spacetime odyssey](https://letterboxd.com/film/cosmos-a-spacetime-odyssey/)
+- [Wonders of the Universe](https://letterboxd.com/film/wonders-of-the-universe/)
+- [Wonders of the Solar System](https://letterboxd.com/film/wonders-of-the-solar-system/)
 
 ## Other
 
@@ -62,6 +79,8 @@
 - [The King of Kong](https://letterboxd.com/film/the-king-of-kong/)
 - [The life and work of chemist Alexander "Sasha" Shulgin](https://www.youtube.com/watch?v=nP7mRrsNFWI)
 - [The queen of Versailles](https://letterboxd.com/film/the-queen-of-versailles/)
+- [Artificial Intelligence](https://www.youtube.com/watch?v=5J5bDQHQR1g)
+- [The Great Silence](https://www.youtube.com/watch?v=ryg077wBvsM)
 
 ## Related
 
