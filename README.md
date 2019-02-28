@@ -81,6 +81,10 @@
 - [The queen of Versailles](https://letterboxd.com/film/the-queen-of-versailles/)
 - [Artificial Intelligence](https://www.youtube.com/watch?v=5J5bDQHQR1g)
 - [The Great Silence](https://www.youtube.com/watch?v=ryg077wBvsM)
+- [Man on Wire](https://letterboxd.com/film/man-on-wire/)
+- [Free Solo](https://letterboxd.com/film/free-solo/)
+- [Touching the Void](https://letterboxd.com/film/touching-the-void/)
+- [Meru](https://letterboxd.com/film/meru/)
 
 ## Related
 
