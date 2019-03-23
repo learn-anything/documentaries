@@ -59,6 +59,7 @@
 
 ## Technology
 
+- [Project Code Rush - The Beginnings of Netscape / Mozilla (2013)](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)
 - [Revolution OS](https://letterboxd.com/film/revolution-os/genres/)
 - [Shenzhen: the silicon valley of Hardware](https://www.youtube.com/watch?v=SGJ5cZnoodY)
 
