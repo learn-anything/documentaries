@@ -44,6 +44,7 @@
 - [Samsara](https://letterboxd.com/film/samsara-2011/)
 - [Winged Migration](https://letterboxd.com/film/winged-migration/)
 - [Earth: The Power of the Planet](https://letterboxd.com/film/earth-the-power-of-the-planet/)
+- [The Last Lions](https://www.youtube.com/watch?v=dSpuIb6WS7I&t=66s)
 
 ## Math
 
@@ -92,6 +93,8 @@
 - [Documentary heaven](http://documentaryheaven.com/)
 - [Documentary storm](https://documentarystorm.com/)
 - [Top documentary films](http://topdocumentaryfilms.com/)
+- [LEMMiNO](https://www.youtube.com/user/Top10Memes)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 
 ---
 
