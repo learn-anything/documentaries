@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 Ensure your pull request adheres to the following guidelines:
+
 - Search included documentaries before adding a new one, as yours may be a duplicate.
 - Use the following format: `[Name](link) <👀> - Description.`
 - If the documentary can be viewed online, add a link to the online documentary and add 👀 after the name of the documentary.
@@ -12,4 +14,4 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - You can also add related links and repositories in the end.
 
-Thank you for [your suggestions](../../edit/master/README.md)! 💜
+Thank you for [your suggestions](../../edit/master/README.md)! ♥️
