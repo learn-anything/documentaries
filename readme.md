@@ -79,6 +79,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Free Solo](https://letterboxd.com/film/free-solo/)
 - [Touching the Void](https://letterboxd.com/film/touching-the-void/)
 - [Meru](https://letterboxd.com/film/meru/)
+- [American Factory](https://letterboxd.com/film/american-factory/)
 
 ## Related
 
